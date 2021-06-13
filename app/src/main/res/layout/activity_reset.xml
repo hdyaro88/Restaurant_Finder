@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.Reset_Activity"
+    android:orientation="vertical"
+    android:background="#f7f7f7">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_vertical"
+        android:layout_marginTop="200dp">
+        <EditText
+            android:id="@+id/et_otp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Enter OTP"
+            android:textColor="#000000"
+            android:textColorHint="#000000"
+            android:backgroundTint="#ffffff"
+            android:background="#ffff"
+            android:layout_marginVertical="5dp"
+            android:paddingHorizontal="20dp" />
+        <EditText
+            android:id="@+id/et_mobile_number"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Enter Mobile Number"
+            android:textColor="#000000"
+            android:textColorHint="#000000"
+            android:backgroundTint="#ffffff"
+            android:background="#ffff"
+            android:layout_marginVertical="5dp"
+            android:paddingHorizontal="20dp" />
+        <EditText
+            android:id="@+id/et_password"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Enter Password"
+            android:textColor="#000000"
+            android:textColorHint="#000000"
+            android:backgroundTint="#ffffff"
+            android:background="#ffff"
+            android:paddingHorizontal="20dp"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/btn_reset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reset Password"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:background="#ff430a"
+        android:layout_marginTop="40dp"/>
+</LinearLayout>

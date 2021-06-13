@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="
+#ffffff
+"
+    tools:context="com.example.restaurent_finder.Fragment.faq_Fragment">
+
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q1. How was Your Experience With the app"
+        android:textColor="#ff0d00"
+        android:textSize="20sp" />
+
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Ans:- The experience was absolutely amazing It is one of the best app i have used so far I feel very happy to use this app. "
+        android:textColor="#8a8a8a"
+        android:textSize="18dp"/>
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q1. How was Your Experience With the app"
+        android:textColor="#ff0d00"
+        android:textSize="20sp" />
+
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Ans:- The experience was absolutely amazing It is one of the best app i have used so far I feel very happy to use this app. "
+        android:textColor="#8a8a8a"
+        android:textSize="18dp"/>
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q1. How was Your Experience With the app"
+        android:textColor="#ff0d00"
+        android:textSize="20sp" />
+
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Ans:- The experience was absolutely amazing It is one of the best app i have used so far I feel very happy to use this app. "
+        android:textColor="#8a8a8a"
+        android:textSize="18dp"/>
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q1. How was Your Experience With the app"
+        android:textColor="#ff0d00"
+        android:textSize="20sp" />
+
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Ans:- The experience was absolutely amazing It is one of the best app i have used so far I feel very happy to use this app. "
+        android:textColor="#8a8a8a"
+        android:textSize="18dp"/>
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q1. How was Your Experience With the app"
+        android:textColor="#ff0d00"
+        android:textSize="20sp" />
+
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Ans:- The experience was absolutely amazing It is one of the best app i have used so far I feel very happy to use this app. "
+        android:textColor="#8a8a8a"
+        android:textSize="18dp"/>
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q1. How was Your Experience With the app"
+        android:textColor="#ff0d00"
+        android:textSize="20sp" />
+
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Ans:- The experience was absolutely amazing It is one of the best app i have used so far I feel very happy to use this app. "
+        android:textColor="#8a8a8a"
+        android:textSize="18dp"/>
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q1. How was Your Experience With the app"
+        android:textColor="#ff0d00"
+        android:textSize="20sp" />
+
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Ans:- The experience was absolutely amazing It is one of the best app i have used so far I feel very happy to use this app. "
+        android:textColor="#8a8a8a"
+        android:textSize="18dp"/>
+
+</LinearLayout>
